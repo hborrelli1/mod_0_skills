@@ -1,0 +1,72 @@
+How to become a Turing Student
+
+1. Apply to Turing
+  1.1 Go to turing.io and select the program you would like to apply to.
+    If Front End
+      1.1.1 Click Apply Now under Front End Engineering
+      1.1.2 Read the Turing School Application Page
+      1.1.3 Click Apply Now
+    If Back End
+      1.1.1 Click Apply Now under Back End Engineering
+      1.1.2 Read the Turing School Application Page
+      1.1.3 Click Apply Now
+  1.2 Complete Application
+    1.2.1 Complete 'Just Your Basics'
+    1.2.2 Complete 'Your Work History'
+    1.2.3 Complete 'Logic Games'
+  1.3 Submit Application
+    1.3.1 Once completed, click submit to apply to Turing
+2. Complete Interview
+  If Selected to move forward
+    2.1 Setup Interview
+      2.1.1 Email erin@turing.io to setup an Interview
+      2.1.2 Complete in person or virtual interview with Erin
+    2.2 Receive decision
+      If Accepted
+        2.2.1 Celebrate
+      If Not Accepted
+        2.2.1 Mourn briefly
+        2.2.2 Wait till you can apply again
+        2.2.3 Start over with step 1
+    2.3 Complete Pairing Exercise and Community Fit
+    2.4 Proceed to Select a Cohort (step 3.)
+  If Not Selected to Move forward
+    2.1 Wait till you are able to apply again.
+    2.2 Complete step 1
+3. Select a Cohort
+  3.1 Select which cohort is best for Your
+    3.1.1 Look at calendar and upcoming events
+    3.1.2 Choose a cohort that fits your schedule/timing
+    3.1.3 Select this cohort
+4. Tuition/Financing
+  4.1 Assess how you will pay for turing
+    If Student Loan
+      4.1.1 Apply to student Loan
+        4.1.1.1 Compare student loan options
+        4.1.1.2 Select which loan is best for your
+        4.1.1.3 Apply to studen Loan
+    If Personal Finances
+      4.1.1 Plan out expenses
+        4.1.1.1 Evaluate your monthly expenses
+        4.1.1.2 Create a budget
+      4.1.2 Submit first payment
+        4.1.2.1 Login on to Turing.io
+        4.1.2.2 Submit payment
+5. Complete Mod0
+  5.1 Attend Mod0
+    5.1.1 Attend each mod0 remote session
+      5.1.1.1 Complete each sessions homework
+    5.1.2 Complete Mod0 technical Assessment
+      5.1.2.1 Complete Session 5
+      5.1.2.2 Start mod0 technical Assessment
+      5.1.2.3 Submit mod0 technical assessment
+    5.1.3 Complete Mod0 Capstone
+      5.1.3.1 Complete all days of Capstone
+        5.1.3.1.1 Complete day 1
+        5.1.3.1.1 Complete day 2
+        5.1.3.1.1 Complete day 3
+        5.1.3.1.1 Complete day 4
+        5.1.3.1.1 Complete day 5
+        5.1.3.1.1 Complete day 6
+        5.1.3.1.1 Complete day 7
+      5.2.3.2 Submit Capstone Project
